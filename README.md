@@ -1,9 +1,11 @@
 Hi there 👋, my name is Sahil
 
-Skills :  Frontend: HTML , CSS , JavaScript
+Skills :  
+          
+          Frontend: HTML , CSS , JavaScript
 
           Backend:  Nodejs , Django
-          
+
           Databases: MySQL , MongoDB
 
           Problem Solving: Java for DSA
