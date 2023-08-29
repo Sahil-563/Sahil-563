@@ -2,7 +2,7 @@ Hi there 👋, my name is Sahil
 
 Skills :  
           
-          Frontend: HTML , CSS , JavaScript
+          Frontend: HTML , CSS , JavaScript , ReactJS
 
           Backend:  Nodejs , Django
 
